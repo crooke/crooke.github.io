@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(216, 216, 216);
+}
+
+.navbar {
+    margin-bottom: 0px;
+    background: black;
+    border-color: black;
+    /*background-color: rgb(216, 216, 216);*/
+    border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #157a75;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+#header {
+    background-image: url(../images/coffee-table.jpg);
+    background-color: #aaaaaa;
+    background: linear-gradient(120deg, #155799, #159957);
+    height: 300px;
+    color: white;
+}
+
+#header h1 {
+    font-size: 56px;
+    margin-top: 0;
+    padding-top: 50px;
+    /*font-family: 'Libre Baskerville', serif;*/
+    font-family: sans-serif;
+}
+
+#header p {
+    /*font-family: 'Playfair Display', serif;*/
+    font-family: serif;
+    font-size: 2.2em;
+}
+
+.center {
+    text-align: center;
+}
+
+.social {
+    padding-top: 20px;
+}
+
+.social a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.social a:hover {
+    color: #000000;
+}
+
+#contact {
+    margin-bottom: 20px;
+}
+
+.random {
+    padding-top: 20px;
+}
