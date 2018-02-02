@@ -69,3 +69,7 @@ body {
 .random {
     padding-top: 20px;
 }
+
+.caption h3 {
+    font-size: 18px;
+}
